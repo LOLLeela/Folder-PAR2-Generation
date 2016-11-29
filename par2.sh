@@ -2,6 +2,7 @@
 # This script is created to go recursively into folders,  
 # detect files and create Par2 files to protect data
 # Created by Leela Ross - leela@leela-ross.com 28/11/2016
+# Thanks to Reddit Users whetu and 1or2. 
 
 # Get running directory
 root=$PWD
